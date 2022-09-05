@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="MvcProjectModelStoreContainer" CdmEntityContainer="ProductsDbContext">
+    <EntitySetMapping Name="Brands">
+      <EntityTypeMapping TypeName="MvcProjectModel.Brand">
+        <MappingFragment StoreEntitySet="Brands">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="CategoryId" ColumnName="CategoryId" />
+          <ScalarProperty Name="SubCategoryId" ColumnName="SubCategoryId" />
+          <ScalarProperty Name="BrandName" ColumnName="BrandName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Categories">
+      <EntityTypeMapping TypeName="MvcProjectModel.Category">
+        <MappingFragment StoreEntitySet="Categories">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="CategoryName" ColumnName="CategoryName" />
+          <ScalarProperty Name="CategoryDescription" ColumnName="CategoryDescription" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ProductImages">
+      <EntityTypeMapping TypeName="MvcProjectModel.ProductImage">
+        <MappingFragment StoreEntitySet="ProductImage">
+          <ScalarProperty Name="ProductsId" ColumnName="ProductsId" />
+          <ScalarProperty Name="Images" ColumnName="Images" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Products">
+      <EntityTypeMapping TypeName="MvcProjectModel.Product">
+        <MappingFragment StoreEntitySet="Products">
+          <ScalarProperty Name="ProductsId" ColumnName="ProductsId" />
+          <ScalarProperty Name="ProductsName" ColumnName="ProductsName" />
+          <ScalarProperty Name="CategoryId" ColumnName="CategoryId" />
+          <ScalarProperty Name="SubCategoryId" ColumnName="SubCategoryId" />
+          <ScalarProperty Name="BrandId" ColumnName="BrandId" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+          <ScalarProperty Name="StockIn" ColumnName="StockIn" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="ProductAddingDate" ColumnName="ProductAddingDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SubCategories">
+      <EntityTypeMapping TypeName="MvcProjectModel.SubCategory">
+        <MappingFragment StoreEntitySet="SubCategories">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="CategoryId" ColumnName="CategoryId" />
+          <ScalarProperty Name="SubCategoryName" ColumnName="SubCategoryName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

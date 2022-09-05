@@ -1,0 +1,49 @@
+﻿@model MvcECommerceWebSite.Models.ViewModel.LogInView
+@{
+    ViewBag.Title = "LogIn";
+}
+<div class="container" style="margin-top:75px;">
+    <div class="row" style="background-color:#abc894;">
+        <h2 class="text-center mt-5 mb-3 text-light">Please Log In</h2>
+        <div class="col offset-2">
+            <div class="col-md-12">
+                @using (Html.BeginForm("LogIn", "Account", FormMethod.Post))
+                {
+                    <div class="row mb-2">
+                        <div class="col-2">
+
+                        </div>
+                        <div class="col-6">
+                            @Html.TextBoxFor(x => x.UserName, new { @class = "form-control r",placeholder = "Enter User Name" })
+                        </div>
+                        <div class="col-4">
+                            @Html.ValidationMessageFor(x => x.UserName, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+                    <div class="row mb-3">
+                        <div class="col-2">
+
+                        </div>
+                        <div class="col-6">
+                            @Html.TextBoxFor(x => x.Password, new { @class = "form-control r",type="password",placeholder="Enter Your Password" })
+                        </div>
+                        <div class="col-4">
+                            @Html.ValidationMessageFor(x => x.Password, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="row mb-5">
+                        <div class="col-8 offset-3 mb-2">
+                            <button type="submit" class="btn fw-bold text-dark" style="font-size:25px; width:300px; background-color:#bb7474">Log In</button>
+                        </div>
+                        <div class="col-8 offset-3">
+                            &nbsp;<a href="@Url.Action("SignUp","Account")">Please Register here !!</a>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</div>
+
+

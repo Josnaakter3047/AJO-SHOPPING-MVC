@@ -1,0 +1,515 @@
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\obj\Debug\MvcECommerceWebSite.csproj.CoreCompileInputs.cache
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\MvcECommerceWebSite.dll.config
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\MvcECommerceWebSite.dll
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\MvcECommerceWebSite.pdb
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\csc.exe
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\csc.exe.config
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\csc.rsp
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\csi.exe
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\csi.exe.config
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\csi.rsp
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.AppContext.dll
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Console.dll
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.IO.Compression.dll
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Net.Http.dll
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.ValueTuple.dll
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\vbc.exe
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\vbc.exe.config
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\vbc.rsp
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\VBCSCompiler.exe
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\EntityFramework.dll
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\EntityFramework.SqlServer.dll
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\Microsoft.Owin.dll
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\Microsoft.Owin.Security.dll
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\Owin.dll
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\PagedList.dll
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\PagedList.Mvc.dll
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\System.Web.Helpers.dll
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\System.Web.Mvc.dll
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\System.Web.Razor.dll
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\System.Web.Webpages.dll
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\System.Web.Webpages.Razor.dll
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\EntityFramework.xml
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\EntityFramework.SqlServer.xml
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\Microsoft.Owin.xml
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\Microsoft.Owin.Security.xml
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\PagedList.xml
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\PagedList.Mvc.xml
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\System.Web.Razor.xml
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\System.Web.Webpages.xml
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\System.Web.Webpages.Razor.xml
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\System.Web.Helpers.xml
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\System.Web.Mvc.xml
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\obj\Debug\MvcECommerceWebSite.csproj.CopyComplete
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\obj\Debug\MvcECommerceWebSite.dll
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\obj\Debug\MvcECommerceWebSite.pdb
+C:\Users\Hello World\Desktop\mvcPractice\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\obj\Debug\MvcECommerceWebSite.csproj.AssemblyReference.cache
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\MvcECommerceWebSite.dll.config
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\MvcECommerceWebSite.dll
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\MvcECommerceWebSite.pdb
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\csc.exe
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\csc.exe.config
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\csc.rsp
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\csi.exe
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\csi.exe.config
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\csi.rsp
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.AppContext.dll
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Collections.Immutable.dll
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Console.dll
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Globalization.Calendars.dll
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.IO.Compression.dll
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.IO.FileSystem.dll
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Net.Http.dll
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Net.Sockets.dll
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Reflection.Metadata.dll
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.ValueTuple.dll
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Xml.XPath.dll
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\vbc.exe
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\vbc.exe.config
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\vbc.rsp
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\VBCSCompiler.exe
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\VBCSCompiler.exe.config
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\EntityFramework.dll
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\EntityFramework.SqlServer.dll
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\Microsoft.Owin.dll
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\Microsoft.Owin.Security.dll
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\Microsoft.Web.Infrastructure.dll
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\Owin.dll
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\PagedList.dll
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\PagedList.Mvc.dll
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\System.Web.Helpers.dll
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\System.Web.Mvc.dll
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\System.Web.Razor.dll
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\System.Web.Webpages.Deployment.dll
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\System.Web.Webpages.dll
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\System.Web.Webpages.Razor.dll
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\EntityFramework.xml
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\EntityFramework.SqlServer.xml
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\Microsoft.Owin.xml
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\Microsoft.Owin.Security.xml
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\PagedList.xml
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\PagedList.Mvc.xml
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\System.Web.Razor.xml
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\System.Web.Webpages.xml
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\System.Web.Webpages.Deployment.xml
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\System.Web.Webpages.Razor.xml
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\System.Web.Helpers.xml
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\System.Web.Mvc.xml
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\obj\Debug\MvcECommerceWebSite.csproj.AssemblyReference.cache
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\obj\Debug\MvcECommerceWebSite.csproj.CoreCompileInputs.cache
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\obj\Debug\MvcECommerceWebSite.csproj.CopyComplete
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\obj\Debug\MvcECommerceWebSite.dll
+D:\Josna akter allo\MVC Project\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\obj\Debug\MvcECommerceWebSite.pdb
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\obj\Debug\MvcECommerceWebSite.csproj.AssemblyReference.cache
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\obj\Debug\MvcECommerceWebSite.csproj.CoreCompileInputs.cache
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\obj\Debug\MvcECommerceWebSite.dll
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\obj\Debug\MvcECommerceWebSite.pdb
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\MvcECommerceWebSite.dll.config
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\MvcECommerceWebSite.dll
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\MvcECommerceWebSite.pdb
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\csc.exe
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\csc.exe.config
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\csc.rsp
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\csi.exe
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\csi.exe.config
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\csi.rsp
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\Microsoft.Managed.Core.targets
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.AppContext.dll
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Collections.Immutable.dll
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Console.dll
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Globalization.Calendars.dll
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.IO.Compression.dll
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.IO.FileSystem.dll
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Net.Http.dll
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Net.Sockets.dll
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Reflection.Metadata.dll
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.ValueTuple.dll
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Xml.XmlDocument.dll
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Xml.XPath.dll
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\vbc.exe
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\vbc.exe.config
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\vbc.rsp
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\VBCSCompiler.exe
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\VBCSCompiler.exe.config
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\EntityFramework.dll
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\EntityFramework.SqlServer.dll
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\Microsoft.AspNet.Identity.Core.dll
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\Microsoft.Owin.dll
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\Microsoft.Owin.Security.Cookies.dll
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\Microsoft.Owin.Security.dll
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\Microsoft.Web.Infrastructure.dll
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\Owin.dll
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\PagedList.dll
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\PagedList.Mvc.dll
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\System.Web.Helpers.dll
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\System.Web.Mvc.dll
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\System.Web.Razor.dll
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\System.Web.Webpages.Deployment.dll
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\System.Web.Webpages.dll
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\System.Web.Webpages.Razor.dll
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\EntityFramework.xml
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\EntityFramework.SqlServer.xml
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\Microsoft.AspNet.Identity.Core.xml
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\Microsoft.Owin.xml
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\Microsoft.Owin.Security.xml
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\Microsoft.Owin.Security.Cookies.xml
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\PagedList.xml
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\PagedList.Mvc.xml
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\System.Web.Razor.xml
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\System.Web.Webpages.xml
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\System.Web.Webpages.Deployment.xml
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\System.Web.Webpages.Razor.xml
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\System.Web.Helpers.xml
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\System.Web.Mvc.xml
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\obj\Debug\MvcECommerceWebSite.csproj.CopyComplete
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\obj\Debug\MvcECommerceWebSite.Migrations.ScriptsAJO.resources
+F:\download folder\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\obj\Debug\MvcECommerceWebSite.csproj.GenerateResource.cache
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\MvcECommerceWebSite.dll.config
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\MvcECommerceWebSite.dll
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\MvcECommerceWebSite.pdb
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\csc.exe
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\csc.exe.config
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\csc.rsp
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\csi.exe
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\csi.exe.config
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\csi.rsp
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.AppContext.dll
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Console.dll
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.IO.Compression.dll
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Net.Http.dll
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.ValueTuple.dll
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\vbc.exe
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\vbc.exe.config
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\vbc.rsp
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\VBCSCompiler.exe
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\EntityFramework.dll
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\EntityFramework.SqlServer.dll
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\Microsoft.Owin.dll
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\Microsoft.Owin.Security.dll
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\Owin.dll
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\PagedList.dll
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\PagedList.Mvc.dll
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\System.Web.Helpers.dll
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\System.Web.Mvc.dll
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\System.Web.Razor.dll
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\System.Web.Webpages.dll
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\System.Web.Webpages.Razor.dll
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\EntityFramework.xml
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\EntityFramework.SqlServer.xml
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\Microsoft.Owin.xml
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\Microsoft.Owin.Security.xml
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\PagedList.xml
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\PagedList.Mvc.xml
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\System.Web.Razor.xml
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\System.Web.Webpages.xml
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\System.Web.Webpages.Razor.xml
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\System.Web.Helpers.xml
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\System.Web.Mvc.xml
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\obj\Debug\MvcECommerceWebSite.csproj.CoreCompileInputs.cache
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\obj\Debug\MvcECommerceWebSite.csproj.CopyComplete
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\obj\Debug\MvcECommerceWebSite.dll
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\obj\Debug\MvcECommerceWebSite.pdb
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\obj\Debug\MvcECommerceWebSite.Migrations.josna.resources
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\obj\Debug\MvcECommerceWebSite.csproj.GenerateResource.cache
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\Ioc.Modules.Contract.dll
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\OwinFramework.dll
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\OwinFramework.Session.dll
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\OwinFramework.xml
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\obj\Debug\MvcECommerceWebSite.Migrations.order.resources
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\obj\Debug\MvcECommerceWebSite.Migrations.Customers.resources
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\CrystalDecisions.ReportSource.dll
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\CrystalDecisions.Shared.dll
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\stdole.dll
+C:\Users\Hello World\Desktop\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\obj\Debug\MvcECommerceWebSite.csproj.AssemblyReference.cache
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\MvcECommerceWebSite.dll.config
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\MvcECommerceWebSite.dll
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\MvcECommerceWebSite.pdb
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\csc.exe
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\csc.exe.config
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\csc.rsp
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\csi.exe
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\csi.exe.config
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\csi.rsp
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\Microsoft.Managed.Core.targets
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.AppContext.dll
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Collections.Immutable.dll
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Console.dll
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Globalization.Calendars.dll
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.IO.Compression.dll
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.IO.FileSystem.dll
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Net.Http.dll
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Net.Sockets.dll
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Reflection.Metadata.dll
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.ValueTuple.dll
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Xml.XmlDocument.dll
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Xml.XPath.dll
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\vbc.exe
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\vbc.exe.config
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\vbc.rsp
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\VBCSCompiler.exe
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\roslyn\VBCSCompiler.exe.config
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\CrystalDecisions.ReportSource.dll
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\CrystalDecisions.Shared.dll
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\EntityFramework.dll
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\EntityFramework.SqlServer.dll
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\Ioc.Modules.Contract.dll
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\Microsoft.AspNet.Identity.Core.dll
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\Microsoft.Owin.dll
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\Microsoft.Owin.Security.Cookies.dll
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\Microsoft.Owin.Security.dll
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\Microsoft.Web.Infrastructure.dll
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\Owin.dll
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\OwinFramework.dll
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\OwinFramework.Session.dll
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\PagedList.dll
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\PagedList.Mvc.dll
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\System.Web.Helpers.dll
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\System.Web.Mvc.dll
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\System.Web.Razor.dll
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\System.Web.Webpages.Deployment.dll
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\System.Web.Webpages.dll
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\System.Web.Webpages.Razor.dll
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\stdole.dll
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\EntityFramework.xml
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\EntityFramework.SqlServer.xml
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\Microsoft.AspNet.Identity.Core.xml
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\Microsoft.Owin.xml
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\Microsoft.Owin.Security.xml
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\Microsoft.Owin.Security.Cookies.xml
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\OwinFramework.xml
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\PagedList.xml
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\PagedList.Mvc.xml
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\System.Web.Razor.xml
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\System.Web.Webpages.xml
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\System.Web.Webpages.Deployment.xml
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\System.Web.Webpages.Razor.xml
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\System.Web.Helpers.xml
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\System.Web.Mvc.xml
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\obj\Debug\MvcECommerceWebSite.csproj.AssemblyReference.cache
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\obj\Debug\MvcECommerceWebSite.Migrations.Josna.resources
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\obj\Debug\MvcECommerceWebSite.Migrations.order.resources
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\obj\Debug\MvcECommerceWebSite.Migrations.Customers.resources
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\obj\Debug\MvcECommerceWebSite.csproj.GenerateResource.cache
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\obj\Debug\MvcECommerceWebSite.csproj.CoreCompileInputs.cache
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\obj\Debug\MvcECommerceWebSite.csproj.CopyComplete
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\obj\Debug\MvcECommerceWebSite.dll
+D:\1266163_MvcProject\MvcECommerceWebSite\MvcECommerceWebSite\obj\Debug\MvcECommerceWebSite.pdb

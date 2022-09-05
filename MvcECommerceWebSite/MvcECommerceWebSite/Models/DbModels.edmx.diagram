@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="e31b232c88094af7855580efbc768114" Name="Diagram1">
+        <EntityTypeShape EntityType="MvcAjoShoppingProjectModel.Brand" Width="1.5" PointX="5.25" PointY="4.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="MvcAjoShoppingProjectModel.Category" Width="1.5" PointX="0.75" PointY="3.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="MvcAjoShoppingProjectModel.ProductImage" Width="1.5" PointX="9.75" PointY="5" IsExpanded="true" />
+        <EntityTypeShape EntityType="MvcAjoShoppingProjectModel.Product" Width="1.5" PointX="7.5" PointY="4.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="MvcAjoShoppingProjectModel.SubCategory" Width="1.5" PointX="3" PointY="6.25" IsExpanded="true" />
+        <AssociationConnector Association="MvcAjoShoppingProjectModel.FK__Brands__SubCateg__5DCAEF64" ManuallyRouted="false" />
+        <AssociationConnector Association="MvcAjoShoppingProjectModel.FK_dbo_Brands_dbo_Categories_CategoryId" ManuallyRouted="false" />
+        <AssociationConnector Association="MvcAjoShoppingProjectModel.FK_dbo_Products_dbo_Brands_BrandId" ManuallyRouted="false" />
+        <AssociationConnector Association="MvcAjoShoppingProjectModel.FK_dbo_Products_dbo_Categories_CategoryId" ManuallyRouted="false" />
+        <AssociationConnector Association="MvcAjoShoppingProjectModel.FK_dbo_SubCategories_dbo_Categories_CategoryId" ManuallyRouted="false" />
+        <AssociationConnector Association="MvcAjoShoppingProjectModel.FK_dbo_ProductImages_dbo_Products_ProductsId" ManuallyRouted="false" />
+        <AssociationConnector Association="MvcAjoShoppingProjectModel.FK_dbo_Products_dbo_SubCategories_SubCategoryId" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
